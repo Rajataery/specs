@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="933" viewBox="0 0 1440 933">
+  <defs>
+    <filter id="Path_57" x="-41.195" y="200.742" width="1523.067" height="740.008" filterUnits="userSpaceOnUse">
+      <feOffset dy="-15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_1">
+      <rect width="1440" height="933"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <g id="Group_9990" data-name="Group 9990" transform="translate(-5809 -1300)">
+      <rect id="Rectangle_319" data-name="Rectangle 319" width="1440" height="900" transform="translate(5809 1333)" fill="none"/>
+      <g transform="matrix(1, 0, 0, 1, 5809, 1300)" filter="url(#Path_57)">
+        <path id="Path_57-2" data-name="Path 57" d="M-20.7,426.229s471.064,81.944,830.561-51.441c208.508-77.363,341.817-214.639,498.847-332.517s148.579-86.41,148.579-86.41v691.2H-20.7Z" transform="translate(2 286.19)" fill="#fe6b00"/>
+      </g>
+    </g>
+  </g>
+</svg>
